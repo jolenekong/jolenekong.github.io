@@ -1,0 +1,20 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.my_btn_color{
+    background-color: blueviolet;
+}
+
+.jumbotron{
+    background-color: aqua;
+}
+
+h1{
+    color: white!important;
+}
