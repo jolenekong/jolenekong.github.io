@@ -12,9 +12,29 @@ h1{
 }
 
 .jumbotron{
-    background-color: aqua;
+    background-color:darkturquoise;
 }
 
 h1{
     color: white!important;
+}
+
+.my_icon_color{
+    color:teal;
+}
+
+.my_margin_bottom{
+    margin-bottom: 30px;
+}
+
+.my_link:hover{
+    text-decoration:none;
+}
+
+.my_link{
+    color:black;
+}
+
+.general_spacing{
+    margin-bottom:100px;
 }
